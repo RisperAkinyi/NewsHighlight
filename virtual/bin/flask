@@ -1,4 +1,5 @@
-#!/home/moringa/Downloads/News-Highlight-master/virtual/bin/python
+#!/home/moringa/Desktop/projects/NewsHighlight/virtual/bin/python3
+
 # -*- coding: utf-8 -*-
 import re
 import sys
