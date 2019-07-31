@@ -3,16 +3,16 @@
 ## Description
 An application that list and preview news articles from various sources.
  
-###A nav bar that directs one to any news of their interest
+### A nav bar that directs one to any news of their interest
 ![Screenshot](app/static/images/nav.png)
 
-###Tech news
+### Tech news
 ![Screenshot](app/static/images/technews.png)
 
-###Business News
+### Business News
 ![Screenshot](app/static/images/biz.png)
 
-###Entertainment news
+### Entertainment news
 ![Screenshot](app/static/images/ent.png)
 
 ## Link to deployed site
