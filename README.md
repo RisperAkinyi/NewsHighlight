@@ -2,9 +2,21 @@
 
 ## Description
 An application that list and preview news articles from various sources.
+ 
+A nav bar that directs one to any news of their interest
+![Screenshot](static/images/nav.png)
+
+Tech news
+![Screenshot](static/images/technews.png)
+
+Business News
+![Screenshot](static/images/biz.png)
+
+Entertainment news
+![Screenshot](static/images/ent.png)
 
 #### Link to deployed site
-https://hapa-kule-news-lg.herokuapp.com/
+https://newshighlists.herokuapp.com/
 
 ## Table of content
 1. [Description](#description)
