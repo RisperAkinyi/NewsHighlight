@@ -16,12 +16,12 @@ class SourcesTest(unittest.TestCase):
         self.assertTrue(isinstance(self.new_source,Sources))
 
     def test_to_check_instance_variables(self):
-        self.assertEquals(self.new_source.id,'CNN')
-        self.assertEquals(self.new_source.name,'CNN News')
-        self.assertEquals(self.new_source.description,'Cable News Newtork that is a leader in providing news worldwide')
-        self.assertEquals(self.new_source.url,'cnn.com')
+        self.assertEquals(self.new_source.id,'Daily Nation')
+        self.assertEquals(self.new_source.name,'Nation news')
+        self.assertEquals(self.new_source.description,'New finance system gives school heads nightmares')
+        self.assertEquals(self.new_source.url,'dailynation.co.ke')
         self.assertEquals(self.new_source.category,'general')
-        self.assertEquals(self.new_source.country,'U.S.A')
+        self.assertEquals(self.new_source.country,'Kenya')
         self.assertEquals(self.new_source.language,'eng')
 
 class ArticlesTest(unittest.TestCase):
