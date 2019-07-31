@@ -3,19 +3,19 @@
 ## Description
 An application that list and preview news articles from various sources.
  
-A nav bar that directs one to any news of their interest
-![Screenshot](static/images/nav.png)
+###A nav bar that directs one to any news of their interest
+![Screenshot](app/static/images/nav.png)
 
-Tech news
-![Screenshot](static/images/technews.png)
+###Tech news
+![Screenshot](app/static/images/technews.png)
 
-Business News
-![Screenshot](static/images/biz.png)
+###Business News
+![Screenshot](app/static/images/biz.png)
 
-Entertainment news
-![Screenshot](static/images/ent.png)
+###Entertainment news
+![Screenshot](app/static/images/ent.png)
 
-#### Link to deployed site
+## Link to deployed site
 https://newshighlists.herokuapp.com/
 
 ## Table of content
