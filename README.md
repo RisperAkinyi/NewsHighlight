@@ -1,7 +1,7 @@
 # News Highlight
 
 ## Description
-An application that allows users to get news articles form multiple news sources online.
+An application that list and preview news articles from various sources.
 
 #### Link to deployed site
 https://hapa-kule-news-lg.herokuapp.com/
@@ -72,4 +72,4 @@ Feel free to contribute to this repository to make pull requests.
 ## [LICENSE](LICENSE)
 This project is licensed under the MIT License.
 
-Copyright (c)2019 [Engineer Lugaga](https://github.com/Lugaga)
+Copyright (c)2019 [Risper Akinyi]
